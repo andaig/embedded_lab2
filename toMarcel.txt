@@ -1,0 +1,2 @@
+man, if you can see this file you have successfully cloned the repository!
+start to get familiar how git works!
